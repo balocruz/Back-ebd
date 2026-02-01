@@ -1,0 +1,23 @@
+{
+  "name": "back-ebd",
+  "version": "1.0.0",
+  "description": "tutorial for backend",
+  "homepage": "https://github.com/balocruz/Back-ebd#readme",
+  "bugs": {
+    "url": "https://github.com/balocruz/Back-ebd/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balocruz/Back-ebd.git"
+  },
+  "license": "ISC",
+  "author": "Cruz",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
